@@ -1,7 +1,7 @@
 # SIGAAlém
  Uma extensao para facilitar o uso do SIGAA
 
- **Informações do seu Horario (disciplinas matriculadas) & Contatos dos respectivos professores/ coordenaçao
+ **Informações do seu Horario (disciplinas matriculadas) & Contatos dos respectivos professores/ coordenaçao**
 
 
 -> preciso instalar e mexer com o Jquery 
