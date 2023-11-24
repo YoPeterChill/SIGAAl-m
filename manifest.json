@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+    "name": "Minha Extensão SIGAA",
+    "version": "1.0",
+    "description": "Uma extensão para visualizar os horários de aula no SIGAA da minha faculdade",
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    "browser_action": {
+        "default_icon": {
+            "48": "icon.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "48": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://sigaa.sistemas.ufj.edu.br/sigaa/portais/discente/discente.jsf"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
