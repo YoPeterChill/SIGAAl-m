@@ -1,0 +1,66 @@
+/* Reset de estilos para garantir consistência entre navegadores */
+body,
+h1,
+h2,
+h3,
+p,
+button {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+h1 {
+    background-color: #204d6b;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #27ae60;
+}
+
+h2 {
+    margin-top: 12px;
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+h3 {
+    background-color: #204d6b;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
+
+div {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Estilo específico para o exemplo de função JavaScript */
+#processType {
+    font-weight: bold;
+    color: #e74c3c;
+}
