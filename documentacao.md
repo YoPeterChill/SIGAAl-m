@@ -20,7 +20,7 @@ Término - 17h11
 Inicio - 13h40 ; Término - 16h45
 - Criei um repositorio no GitHub: "SigaAlém"
 - Desenvolvi os principais itens necessario 
-- Conigurei meu Modzilla e Ativei a extensão
+- Configurei meu Modzilla e Ativei a extensão
 
 #
 **28/11**
