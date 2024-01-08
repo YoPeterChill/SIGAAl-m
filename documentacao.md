@@ -32,3 +32,18 @@ Início - 13h40 ; Término - 17h00
 
 # **Dezembro**
 
+**19/12**
+Início - 9h00 ; Término - 11h00
+- Assistir video no youtube sobre HTML
+
+**20/12** 
+Início - 9h00 ; Término - 12h00
+- Assistir video no youtube sobre javaScript (requisitar qualquer informação)
+
+**22/12**
+Início - 9h00 ; Término - 11h00
+- criar um git compartilhado com os colegas para treinar junto
+
+**28/12**
+Início - 13h00 ; Término 17h00
+- estudar e testar o "inspecionar dos navegadores Firefox, chrome. (Redes)
