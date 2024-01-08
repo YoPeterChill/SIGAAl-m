@@ -34,11 +34,11 @@ Início - 13h40 ; Término - 17h00
 
 **19/12**
 Início - 9h00 ; Término - 11h00
-- Assistir video no youtube sobre HTML
+- Assistir video no youtube sobre HTML -> https://www.youtube.com/watch?v=pdBtFnheeKE
 
 **20/12** 
 Início - 9h00 ; Término - 12h00
-- Assistir video no youtube sobre javaScript (requisitar qualquer informação)
+- Assistir video no youtube sobre javaScript (requisitar qualquer informação) -> https://www.youtube.com/watch?v=376_sY8H1wI
 
 **22/12**
 Início - 9h00 ; Término - 11h00
